@@ -1,0 +1,114 @@
+body {
+  padding: 3px;
+  font-size: 14px;
+  background-position:  center center;
+  background-color: #585893;
+  background-image: url(https://web.archive.org/web/20151103213758im_/http://magiccity.netii.net/images/background/background.gif);
+  color: #acacd7;
+  font-family: bubbleboddy;
+}
+#div-decorations {
+  background-color: #ff99ff;
+  font-family: bubbleboddy;
+}
+.header {
+  text-align: center;
+  border: 1px solid black;
+  background-image: url(https://web.archive.org/web/20151103213758im_/http://magiccity.netii.net/images/logos/logo.png);
+  background-position:  center center;
+  width: 571px;
+  height: 302px;
+  font-family: bubbleboddy;
+}
+#main, #head {
+  border: 4px inset #ff99ff;
+  padding: 5px 15px;
+  text-align: center;
+  background-position:  center center;
+  background-color: white;
+  font-family: bubbleboddy;
+  color: #8b96b2;
+}
+h1 {
+  border-bottom: 3px solid #99ff99;
+  font-size: 50px;
+  color: #e484e6;
+  font-family: bubbleboddy;
+}
+ul#menu {
+  padding: 0;
+  text-align: center;
+  margin-bottom: 11px;
+  font-family: bubbleboddy;
+}
+ul#menu li {
+  display: inline;
+  margin-right: 3px;
+  font-family: bubbleboddy;
+}
+ul#menu li a {
+border: 1px solid #9999ff;
+padding: 10px 20px;
+background-image: url(https://web.archive.org/web/20151103213758im_/http://magiccity.netii.net/images/gradient.PNG);
+background-color: #6b9dff;
+background-repeat: repeat-x;
+background-position:  center center;
+font-size: 12px;
+text-decoration: none;
+font-family: bubbleboddy;
+color: white;
+border-radius: 50px;
+-moz-border-radius: 50px;
+-webkit-border-radius: 50px;
+}
+ul#menu li a:hover {
+border: 1px solid #9999ff;
+padding: 10px 20px;
+background-image: url(https://web.archive.org/web/20151103213758im_/http://magiccity.netii.net/images/gradient.PNG);
+background-color: #6b9dff;
+background-repeat: repeat-x;
+background-position:  center center;
+font-size: 12px;
+text-decoration: none;
+font-family: bubbleboddy;
+color: white;
+border-radius: 50px;
+-moz-border-radius: 50px;
+-webkit-border-radius: 50px;
+}
+table {
+  width: 100%;
+  font-family: bubbleboddy;
+}
+table, th, td {
+  border:  none;
+  padding: 5px;
+  border-collapse: collapse;
+  font-family: bubbleboddy;
+}
+th {
+  text-align: center;
+  font-family: bubbleboddy;
+}
+#share-buttons img {
+  border:  none;
+  padding: 5px;
+  width: 35px;
+  display: inline;
+  font-family: bubbleboddy;
+}
+/*
+     FILE ARCHIVED ON 21:37:58 Nov 03, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:27:37 Apr 24, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.604
+  load_resource: 80.833
+  PetaboxLoader3.resolve: 45.201
+  PetaboxLoader3.datanode: 34.906
+*/
